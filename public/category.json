@@ -1,0 +1,27 @@
+[
+    {
+      "category_id": "CAT001",
+      "category": "Laptop",
+      "slug": "laptop"
+    },
+    {
+      "category_id": "CAT002",
+      "category": "Smart Watch",
+      "slug": "smart-watch"
+    },
+    {
+      "category_id": "CAT003",
+      "category": "MacBook",
+      "slug": "macbook"
+    },
+    {
+      "category_id": "CAT004",
+      "category": "iPhone",
+      "slug": "iphone"
+    },
+    {
+      "category_id": "CAT005",
+      "category": "Accessories",
+      "slug": "accessories"
+    }
+  ]

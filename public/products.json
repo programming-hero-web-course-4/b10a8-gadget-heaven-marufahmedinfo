@@ -1,0 +1,202 @@
+[ {
+    "product_id": "LAP004",
+    "product_title": "Microsoft Surface Laptop 5",
+    "product_image": "https://i.ibb.co.com/qkW4qJQ/one-Laptop.jpg",
+    "category": "Laptop",
+    "price": 1499.99,
+    "description": "Microsoft Surface Laptop 5 combines elegance, speed, and a PixelSense touchscreen display.",
+    "Specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "13.5-inch PixelSense display"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "LAP005",
+    "product_title": "Asus ZenBook 14",
+    "product_image": "https://i.ibb.co.com/71nYjN9/two-Laptop.jpg",
+    "category": "Laptop",
+    "price": 1099.99,
+    "description": "Asus ZenBook 14 with a slim, lightweight design and incredible battery life for on-the-go productivity.",
+    "Specification": ["AMD Ryzen 7", "16GB RAM", "512GB SSD", "14-inch NanoEdge display"],
+    "availability": true,
+    "rating": 4.6
+  },
+     {
+       "product_id": "LAP006",
+       "product_title": "Acer Swift 5",
+       "product_image": "https://i.ibb.co.com/wLgFzJC/three-Leptop.jpg",
+       "category": "Laptop",
+       "price": 899.99,
+       "description": "Acer Swift 5 is an ultra-light, ultra-thin laptop with an excellent display and fast performance.",
+       "Specification": ["Intel Core i5", "8GB RAM", "512GB SSD", "14-inch FHD touchscreen"],
+       "availability": true,
+       "rating": 4.4
+     },
+     {
+       "product_id": "LAP007",
+       "product_title": "Razer Blade 15",
+       "product_image": "https://i.ibb.co.com/MgMpLQJ/four-Laptop.jpg",
+       "category": "Laptop",
+       "price": 2499.99,
+       "description": "Razer Blade 15 offers high-end graphics performance in a sleek, durable aluminum chassis.",
+       "Specification": ["Intel Core i9", "32GB RAM", "1TB SSD", "15.6-inch 4K display"],
+       "availability": true,
+       "rating": 4.8
+        },
+      {
+        "product_id": "LAP001",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/wLgFzJC/three-Leptop.jpg",
+        "category": "Laptop",
+        "price": 1299.99,
+        "description": "The Dell XPS 13 offers a stunning display and incredible performance in a compact form factor.",
+        "Specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "13.4-inch display"],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "LAP002",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/gvgNHrh/six.jpg",
+        "category": "Laptop",
+        "price": 1399.99,
+        "description": "HP Spectre x360 with sleek design, 2-in-1 functionality, and powerful specs.",
+        "Specification": ["Intel Core i7", "16GB RAM", "1TB SSD", "13.5-inch display"],
+        "availability": true,
+        "rating": 4.7
+      },
+    
+      {
+        "product_id": "SW001",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/4MWRJwn/w4.jpg",
+        "category": "Smart Watch",
+        "price": 399.99,
+        "description": "Apple Watch Series 8 with advanced health tracking and powerful performance.",
+        "Specification": ["Blood Oxygen Sensor", "ECG", "GPS", "Water Resistant"],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "SW002",
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co.com/DMPzPdz/w2.jpg",
+        "category": "Smart Watch",
+        "price": 329.99,
+        "description": "Samsung Galaxy Watch 5 with health monitoring and customizable watch faces.",
+        "Specification": ["Heart Rate Monitor", "Sleep Tracking", "GPS", "Water Resistant"],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "SW003",
+        "product_title": "Garmin Venu 2",
+        "product_image": "https://i.ibb.co.com/0tfMnNX/w1.jpg",
+        "category": "Smart Watch",
+        "price": 349.99,
+        "description": "Garmin Venu 2 with built-in GPS and fitness tracking for active lifestyles.",
+        "Specification": ["Built-in GPS", "Heart Rate Monitor", "Sleep Tracking", "AMOLED display"],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "MAC001",
+        "product_title": "Apple MacBook Pro 14-inch",
+        "product_image": "https://i.ibb.co.com/7CLFGM3/mc3.webp",
+        "category": "MacBook",
+        "price": 1999.99,
+        "description": "The MacBook Pro with M1 Pro chip offers incredible power and battery life.",
+        "Specification": ["Apple M1 Pro", "16GB RAM", "512GB SSD", "14-inch Retina display"],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "MAC002",
+        "product_title": "MacBook Air M2",
+        "product_image": "https://i.ibb.co.com/CvLCf70/mc2.jpg",
+        "category": "MacBook",
+        "price": 1199.99,
+        "description": "MacBook Air with M2 chip is lightweight, fast, and efficient.",
+        "Specification": ["Apple M2", "8GB RAM", "256GB SSD", "13.6-inch Retina display"],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "MAC003",
+        "product_title": "MacBook Pro 16-inch",
+        "product_image": "https://i.ibb.co.com/7CLFGM3/mc3.webp",
+        "category": "MacBook",
+        "price": 2499.99,
+        "description": "The large MacBook Pro with M1 Max chip for ultimate performance.",
+        "Specification": ["Apple M1 Max", "32GB RAM", "1TB SSD", "16-inch Retina display"],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "IPH001",
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/09PM91G/iph4.jpg",
+        "category": "iPhone",
+        "price": 999.99,
+        "description": "iPhone 14 Pro with an advanced camera system and dynamic island feature.",
+        "Specification": ["A16 Bionic Chip", "48MP Camera", "ProMotion Display", "5G Enabled"],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "IPH002",
+        "product_title": "iPhone 13",
+        "product_image": "https://i.ibb.co.com/fQ3Q2fr/iph5.webp",
+        "category": "iPhone",
+        "price": 799.99,
+        "description": "iPhone 13 with a powerful dual-camera system and longer battery life.",
+        "Specification": ["A15 Bionic Chip", "12MP Dual Camera", "Super Retina XDR", "5G Enabled"],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "IPH003",
+        "product_title": "iPhone SE (2022)",
+        "product_image": "https://i.ibb.co.com/nwFykwr/iph2.webp",
+        "category": "iPhone",
+        "price": 429.99,
+        "description": "iPhone SE (2022) is budget-friendly with powerful A15 Bionic performance.",
+        "Specification": ["A15 Bionic Chip", "12MP Camera", "Retina HD Display", "5G Enabled"],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "ACC001",
+        "product_title": "Anker USB-C Hub",
+        "product_image": "https://i.ibb.co.com/qYx7PzY/acso3.jpg",
+        "category": "Accessories",
+        "price": 59.99,
+        "description": "Expand your laptop connectivity with Anker's compact USB-C hub.",
+        "Specification": ["USB-C", "HDMI Port", "USB 3.0", "SD Card Slot"],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "ACC002",
+        "product_title": "Apple AirPods Pro",
+        "product_image": "https://i.ibb.co.com/HDSy70X/acso2.jpg",
+        "category": "Accessories",
+        "price": 249.99,
+        "description": "Apple AirPods Pro with active noise cancellation and superior sound quality.",
+        "Specification": ["Active Noise Cancellation", "Transparency Mode", "Wireless Charging", "Water Resistant"],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "ACC003",
+        "product_title": "Samsung Portable SSD T7",
+        "product_image": "https://i.ibb.co.com/n3ZfbVD/acso1.jpg",
+        "category": "Accessories",
+        "price": 109.99,
+        "description": "Samsung Portable SSD T7 for ultra-fast external storage on the go.",
+        "Specification": ["1TB Storage", "USB 3.2", "Shock Resistant", "Compact Design"],
+        "availability": true,
+        "rating": 4.7
+      }
+    ]
+  
+  
